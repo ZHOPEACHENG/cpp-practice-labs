@@ -1,0 +1,35 @@
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Claude Code / Speckit artifacts
+.claude/
+.specify/
+CLAUDE.md
+
+# Backup files
+*.bak
+
+# Doc folder
+doc/
+
+# Compiled outputs
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.idb
+*.ipdb
+*.iobj
+*.ipch
+*.lastbuildstate
+*.unsuccessfulbuild
